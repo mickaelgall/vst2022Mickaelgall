@@ -1,0 +1,12 @@
+C:\Users\eleve\Desktop\MGprojetVS2022\MGprojetVS2022V1\MGprojetVS2022V1\obj\Debug\MGprojetVS2022V1.vbproj.AssemblyReference.cache
+C:\Users\eleve\Desktop\MGprojetVS2022\MGprojetVS2022V1\MGprojetVS2022V1\obj\Debug\MGprojetVS2022V1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\eleve\Desktop\MGprojetVS2022\MGprojetVS2022V1\MGprojetVS2022V1\obj\Debug\MGprojetVS2022V1.Resources.resources
+C:\Users\eleve\Desktop\MGprojetVS2022\MGprojetVS2022V1\MGprojetVS2022V1\obj\Debug\MGprojetVS2022V1.vbproj.GenerateResource.cache
+C:\Users\eleve\Desktop\MGprojetVS2022\MGprojetVS2022V1\MGprojetVS2022V1\obj\Debug\MGprojetVS2022V1.vbproj.CoreCompileInputs.cache
+C:\Users\eleve\Desktop\MGprojetVS2022\MGprojetVS2022V1\MGprojetVS2022V1\bin\Debug\MGprojetVS2022V1.exe.config
+C:\Users\eleve\Desktop\MGprojetVS2022\MGprojetVS2022V1\MGprojetVS2022V1\bin\Debug\MGprojetVS2022V1.exe
+C:\Users\eleve\Desktop\MGprojetVS2022\MGprojetVS2022V1\MGprojetVS2022V1\bin\Debug\MGprojetVS2022V1.pdb
+C:\Users\eleve\Desktop\MGprojetVS2022\MGprojetVS2022V1\MGprojetVS2022V1\bin\Debug\MGprojetVS2022V1.xml
+C:\Users\eleve\Desktop\MGprojetVS2022\MGprojetVS2022V1\MGprojetVS2022V1\obj\Debug\MGprojetVS2022V1.exe
+C:\Users\eleve\Desktop\MGprojetVS2022\MGprojetVS2022V1\MGprojetVS2022V1\obj\Debug\MGprojetVS2022V1.xml
+C:\Users\eleve\Desktop\MGprojetVS2022\MGprojetVS2022V1\MGprojetVS2022V1\obj\Debug\MGprojetVS2022V1.pdb
